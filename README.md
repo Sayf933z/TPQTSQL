@@ -282,4 +282,5 @@ if (!db.open()) {
      Ce processus assure une interaction fluide entre l'interface utilisateur et la base de données tout en maintenant l'intégrité des données.
 
 
-   Voici une capture vidéo qui montre l'intéraction entre le code et la BDD : [Capture vidéo du 2025-01-07 14-24-19.webm](https://github.com/user-attachments/assets/e8090791-7545-4096-8f82-afcaef0aa626)
+   Voici une capture vidéo qui montre l'intéraction entre le code et la BDD :
+   [Capture vidéo du 2025-01-07 14-24-19.webm](https://github.com/user-attachments/assets/e8090791-7545-4096-8f82-afcaef0aa626)
