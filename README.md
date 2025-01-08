@@ -100,7 +100,7 @@ if (db.open()) {
         QString club = query.value(2).toString();
         qDebug() << Nom << club;
     }
-```
+
 
     db.close();
 } else {
